@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MiniProgressbar::VERSION
   spec.authors       = ["Gen Tamura"]
   spec.email         = ["gen.tamura84@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{This is a gem description}
+  spec.summary       = %q{This is a gem summary}
   spec.homepage      = ""
   spec.license       = "MIT"
 
